@@ -1,0 +1,113 @@
+.heading-ourservices {
+    color: #183b56;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.paragraph-ourservices {
+    color: #7b8794;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.image-fast {
+    width: 100px;
+    height: 100px;
+}
+
+.heading-fast {
+    color: #1f2933;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.paragraph-fast {
+    color: #7b8794;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+
+.bg-container-new {
+    background-color: #0d2436;
+}
+
+.image1 {
+    color: #5a7184;
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+
+
+.icon-google {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.icon-border {
+    background-color: #152c3e;
+    border-radius: 40px;
+    width: 40px;
+    height: 40px;
+}
+
+.paragraph-address {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.heading-get-to-know-us {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.paragraph-get-to-know-us {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #5a7184;
+    font-weight: 500;
+}
+
+.horizontal {
+    border-color: #5a7184;
+}
+
+.copyright-rahul {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #5a7184;
+    font-weight: bold;
+}
+
+
+.bg-container {
+    background-color: #f5f7fa;
+}
+
+.heading-let-us-join-together {
+    font-size: 40px;
+    font-family: "Roboto";
+    color: #183b56;
+    font-weight: bold;
+}
+
+.button-contact-us {
+    color: #ff9f00;
+    border-color: #ff9f00;
+    border-width: 3px;
+    border-style: solid;
+    width: 200px;
+    height: 50px;
+    background-color: #f5f7fa;
+    font-size: 25px;
+    font-weight: 500;
+}
